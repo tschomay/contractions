@@ -32,6 +32,12 @@ contractions_dict = {
     "I'll've": "I will have",
     "I'm": "I am",
     "I've": "I have",
+    "i'd": "I would",
+    "i'd've": "I would have",
+    "i'll": "I will",
+    "i'll've": "I will have",
+    "i'm": "I am",
+    "i've": "I have",
     "isn't": "is not",
     "it'd": "it would",
     "it'd've": "it would have",
@@ -122,7 +128,8 @@ contractions_dict = {
     "doin'": "doing",
     "goin'": "going",
     "nothin'": "nothing",
-    "somethin'": "something"
+    "somethin'": "something",
+    "tellin'": "telling"
 }
 
 
